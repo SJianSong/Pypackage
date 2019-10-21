@@ -2,7 +2,7 @@
 python package
 
 ### Python package
-```
+
 * Requests：Kenneth Reitz写的最富盛名的http库。每个Python程序员都应该有它。
 * Scrapy：如果你从事爬虫相关的工作，那么这个库也是必不可少的。用过它之后你就不会再想用别的同类库了。
 * wxPython：Python的一个GUI（图形用户界面）工具。我主要用它替代tkinter。你一定会爱上它的。
@@ -707,4 +707,3 @@ Beaker：一个缓存和会话库，可以用在 web 应用和独立 Python脚�
 * SQLAlchemy: 快一统ORM了吧
 * Quixote：其实还是蛮好用的
 * pyQuery: 用jQuery的语法写爬虫 略爽
-```
